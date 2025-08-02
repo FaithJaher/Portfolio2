@@ -21,18 +21,6 @@ This site showcases who I am, my interests in tech, projects I’ve worked on, a
 - **HTML5**  
 - **CSS3**
 
-> This project is simple, lightweight, and built without JavaScript or frameworks.
-
----
-
-## 📂 Project Structure
-
-Portfolio_Website/
-├── index.html
-├── style.css
-├── README.md
-└── (optional assets like images or CV)
-
 ---
 
 ## 🗒️ About the Project
